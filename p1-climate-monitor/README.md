@@ -13,3 +13,5 @@ dafruit_GFX
 DHT
 ### Expected Output
 The DHT11 sensor will detect the current temperature and humidity and send a signal to the ESP32. A live temperature & humidity will be displayed on the OLED. 
+
+Link from Wokwi: https://wokwi.com/projects/469871255283761153

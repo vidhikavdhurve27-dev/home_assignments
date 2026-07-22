@@ -16,4 +16,4 @@ Burn-in: New sensors require a 24–48 hour continuous power-on period to clear 
 Circuit Design: The onboard LM393 comparator pulls the digital output down to GND (LOW / 0V) when IR light from a flame hits the photodiode.
 Default State: It stays HIGH (5V) via pull-up resistors when the environment is safe. 
 Fail-Safe: Ensures reliable triggering and prevents accidental environmental noise from being mistaken for a fire signature.
-Link from Wokwi: https://wokwi.com/projects/469871255283761153
+### Link from Wokwi: https://wokwi.com/projects/469871255283761153

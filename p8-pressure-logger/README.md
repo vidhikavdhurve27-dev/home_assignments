@@ -11,3 +11,4 @@ Breadboard + Jumper Wires
 #### How Altitude Affects Readings: 
 Atmospheric pressure drops as altitude increases because there is less air mass pushing down from above. To identify actual weather fronts, meteorologists must isolate this elevation factor. They do this by converting raw Station Pressure into normalized Sea-Level Pressure.
 Without this adjustment, a station on a hill would always report a false low-pressure storm warning.
+Link from Wokwi: https://wokwi.com/projects/470239274289431553
